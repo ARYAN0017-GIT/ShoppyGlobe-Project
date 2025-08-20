@@ -1,0 +1,1 @@
+const i=r=>{if(!r&&r!==0)return"$0.00";const t=Number(r);return isNaN(t)?"$0.00":new Intl.NumberFormat("en-US",{style:"currency",currency:"USD",minimumFractionDigits:2,maximumFractionDigits:2}).format(t)};export{i as f};
