@@ -4,8 +4,8 @@
 
 **A modern React-based e-commerce application with Redux state management and responsive design.**
 
-**Live Demo:** [View Application](https://your-username.github.io/shoppyglobe-ecommerce)  
-**GitHub Repo:** [https://github.com/your-username/shoppyglobe-ecommerce](https://github.com/your-username/shoppyglobe-ecommerce)
+**Live Demo:** [View Application](shoppyglobe-assignment.netlify.app)  
+**GitHub Repo:** [https://github.com/your-username/shoppyglobe-ecommerce](https://github.com/ARYAN0017-GIT/ShoppyGlobe-Project.git)
 
 ***
 
